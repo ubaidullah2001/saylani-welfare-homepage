@@ -1,0 +1,379 @@
+.intro,.intro2 {
+
+font-size: 30px;
+text-align: center;
+font-family:Arial, Helvetica, sans-serif ;
+line-height: 100px;
+
+
+
+}
+
+
+
+
+.para1 p{
+
+font-family: Arial, Helvetica, sans-serif;
+line-height: 30px;
+/* padding-right: 150px;
+padding-left: 150px;
+padding-bottom: 90px; */
+justify-content: space-around;
+
+}
+
+
+
+.monthly {
+
+display: flex;
+flex: row;
+justify-content: space-around;
+font-size: 25px;
+background-color: rgb(43, 86, 214);
+color: white; 
+padding-bottom: 30px;
+
+
+}
+ 
+.what {
+
+display: inline-block;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.are {
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: inline-block;
+}
+
+
+.first , .second {
+text-align: center;
+display: inline-block;
+}
+.form1 {
+
+    background-color: rgb(236, 236, 236);
+}
+  .education,.family,.daily,.month1 {
+
+    display: inline-block;
+    text-align: center;
+}
+
+.medical, .month1 {
+
+    display: inline-block;
+    text-align: center;
+}
+
+
+
+.sadqah,.welfare,.medical2 {
+
+background-color: rgb(243, 243, 243);
+height: 200px;
+width: 350px ;
+display: inline-block;
+margin: 10px  10px;
+box-shadow: 0px 2px 6px 0px rgba(36,35,0.3);
+
+
+}
+
+.box{
+justify-content: space-around;
+padding-left: 90px;
+padding-top: 20px;
+}
+
+
+.dastarkhwan2,.plant,.education2{
+
+    background-color: rgb(243, 243, 243);
+    height: 200px;
+    width: 350px ;
+    display: inline-block;
+     margin: 10px  10px; 
+    box-shadow: 0px 2px 6px 0px rgba(36,35,0.3);
+    
+
+}
+
+.box img {
+
+    margin-top: 20px;
+}
+
+
+.hepatitis,.housing {
+
+height: 60px;
+width: 300px;
+display: inline-block;
+background-color: rgb(243, 243, 243);
+font-weight: bold;
+font-size: 20px;
+color: rgb(39, 95, 199);
+text-align: center;
+margin-left: 15px;
+
+}
+
+.literacy,.tharparkar {
+
+    background-color: rgb(243, 243, 243);
+    height: 60px;
+    width: 300px;
+    display: inline-block;
+color: rgb(39, 95, 199);
+font-weight: bold;
+font-size: 20px;
+margin-top: 15px;
+margin-left: 15px;
+text-align: center;
+
+
+
+}
+
+
+.hepatitis ,.literacy {
+
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+.image {
+
+    display: inline-block;
+}
+
+.image1,.image2,.image3,.image4,.image5{
+
+    display: inline-block;
+    justify-content: space-between;
+}
+.image1{
+
+    margin-left: 100px;
+}
+
+
+.last{
+
+    height: 300px;
+    background-color: rgb(61, 58, 58);
+}
+.about1 {
+    
+    color: lightgrey;
+padding-left: 80px;
+
+}
+.number{
+display: inline-block;
+
+}
+
+
+
+ header {
+
+    background-color: blue;
+   height: 45px;
+   box-shadow: 0px 2px 6px 0px rgba(36,35,0.3); 
+   overflow: hidden;
+   position: relative;
+   width: 100%;
+
+
+}
+header ul li{
+
+    list-style-type: none;
+    
+    display: inline;
+    
+}
+
+header ul img{
+
+    float: left;
+    margin-left: 10px;
+    padding: 5px;
+}
+
+
+
+.header button{
+
+color: black;
+background-color: rgb(236, 236, 236);
+display: inline;
+float: right;
+}
+
+.icon2 ul li{
+
+color: black;
+float: right;
+
+}
+
+.icon2 ul li a{
+
+    text-decoration: none;
+    color: black;
+    
+background-color: rgb(241, 240, 240);
+padding: 3px 10px;
+margin-right: 8px;
+box-shadow: 0px 2px 6px 0px rgba(36,35,0.3); 
+
+}
+
+
+
+
+
+
+
+
+
+
+ .logo {
+
+    background-color: green;
+    
+    }
+    
+    
+    ol{
+    list-style-type: none;
+    float: right;
+    
+    
+    }
+    .logo ol li{
+    
+        display: inline-block;
+         margin-right: 50px;
+        /* margin-bottom: 50px; */
+        color: blue;
+     text-decoration: none;
+    background-color: rgb(243, 243, 243);
+    width: 80px;
+    height: 25px;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 15px;
+    border-radius: 3px;
+    box-shadow: 0px 2px 6px 0px rgba(36,35,0.3); 
+    }
+
+.logo ol li:hover{
+
+    background-color: white;
+}
+
+.about1{
+
+    background-color: black;
+}
+ 
+.link ul li{
+list-style-type: none;
+display: inline;
+float: right;
+margin-right: 25px;
+
+}
+.link ul li:hover{
+
+    background-color: white;
+}
+
+.icon1 ul li:hover{
+
+    background-color: white;
+}
+.copy{
+    width: 100%;
+    height: 35px;
+    background-color: rgb(43, 86, 214);
+    text-indent: justify;
+}
+.mission p{
+    line-height: 30px;
+    margin-top: 30px;
+}
+
+.what,.are p{
+    margin-top: 30px;
+}
+.image p{
+
+    margin-top: 30px;
+}
+.gallery img{
+    margin-bottom: 20px;
+}
+.image-g,.image1,.image2,.image3,.image4,.image5{
+    justify-content: space-around;
+    
+}
+
+.monthly{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.housing,.tharparkar{
+    margin-left: 100px;
+    
+}
+.housing{
+    margin-top: 10px;
+}
+
+
+@media only screen and (max-width:800px){
+
+    body{
+        width: 400px;
+    }
+    form .form2{
+        width: 400px;
+    }
+    
+    }
+@media only screen and (max-width:600px){
+
+body{
+    width: 300px;
+}
+form .form2{
+    width: 300px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
